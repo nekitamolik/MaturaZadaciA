@@ -1,0 +1,11 @@
+C:\Users\Velja\Desktop\Matura\A21\Matura\A21\Matura_Zadatak_A21\Matura_Zadatak_A21\bin\Debug\Matura_Zadatak_A21.exe.config
+C:\Users\Velja\Desktop\Matura\A21\Matura\A21\Matura_Zadatak_A21\Matura_Zadatak_A21\bin\Debug\Matura_Zadatak_A21.exe
+C:\Users\Velja\Desktop\Matura\A21\Matura\A21\Matura_Zadatak_A21\Matura_Zadatak_A21\bin\Debug\Matura_Zadatak_A21.pdb
+C:\Users\Velja\Desktop\Matura\A21\Matura\A21\Matura_Zadatak_A21\Matura_Zadatak_A21\obj\Debug\Matura_Zadatak_A21.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A21\Matura\A21\Matura_Zadatak_A21\Matura_Zadatak_A21\obj\Debug\Matura_Zadatak_A21.Ekskurzija.resources
+C:\Users\Velja\Desktop\Matura\A21\Matura\A21\Matura_Zadatak_A21\Matura_Zadatak_A21\obj\Debug\Matura_Zadatak_A21.Putovanja.resources
+C:\Users\Velja\Desktop\Matura\A21\Matura\A21\Matura_Zadatak_A21\Matura_Zadatak_A21\obj\Debug\Matura_Zadatak_A21.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A21\Matura\A21\Matura_Zadatak_A21\Matura_Zadatak_A21\obj\Debug\Matura_Zadatak_A21.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A21\Matura\A21\Matura_Zadatak_A21\Matura_Zadatak_A21\obj\Debug\Matura_Zadatak_A21.exe
+C:\Users\Velja\Desktop\Matura\A21\Matura\A21\Matura_Zadatak_A21\Matura_Zadatak_A21\obj\Debug\Matura_Zadatak_A21.pdb
+C:\Users\Velja\Desktop\Matura\A21\Matura\A21\Matura_Zadatak_A21\Matura_Zadatak_A21\obj\Debug\Matura_Zadatak_A21.Analiza.resources
