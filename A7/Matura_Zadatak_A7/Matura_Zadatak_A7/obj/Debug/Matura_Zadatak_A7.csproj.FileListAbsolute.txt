@@ -1,0 +1,11 @@
+C:\Users\Velja\Desktop\Matura\A7\Matura\A7\Matura_Zadatak_A7\Matura_Zadatak_A7\bin\Debug\Matura_Zadatak_A7.exe.config
+C:\Users\Velja\Desktop\Matura\A7\Matura\A7\Matura_Zadatak_A7\Matura_Zadatak_A7\bin\Debug\Matura_Zadatak_A7.exe
+C:\Users\Velja\Desktop\Matura\A7\Matura\A7\Matura_Zadatak_A7\Matura_Zadatak_A7\bin\Debug\Matura_Zadatak_A7.pdb
+C:\Users\Velja\Desktop\Matura\A7\Matura\A7\Matura_Zadatak_A7\Matura_Zadatak_A7\obj\Debug\Matura_Zadatak_A7.Komunikacija.resources
+C:\Users\Velja\Desktop\Matura\A7\Matura\A7\Matura_Zadatak_A7\Matura_Zadatak_A7\obj\Debug\Matura_Zadatak_A7.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A7\Matura\A7\Matura_Zadatak_A7\Matura_Zadatak_A7\obj\Debug\Matura_Zadatak_A7.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A7\Matura\A7\Matura_Zadatak_A7\Matura_Zadatak_A7\obj\Debug\Matura_Zadatak_A7.exe
+C:\Users\Velja\Desktop\Matura\A7\Matura\A7\Matura_Zadatak_A7\Matura_Zadatak_A7\obj\Debug\Matura_Zadatak_A7.pdb
+C:\Users\Velja\Desktop\Matura\A7\Matura\A7\Matura_Zadatak_A7\Matura_Zadatak_A7\obj\Debug\Matura_Zadatak_A7.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A7\Matura\A7\Matura_Zadatak_A7\Matura_Zadatak_A7\obj\Debug\Matura_Zadatak_A7.DeleteForm.resources
+C:\Users\Velja\Desktop\Matura\A7\Matura\A7\Matura_Zadatak_A7\Matura_Zadatak_A7\obj\Debug\Matura_Zadatak_A7.Grafik.resources
