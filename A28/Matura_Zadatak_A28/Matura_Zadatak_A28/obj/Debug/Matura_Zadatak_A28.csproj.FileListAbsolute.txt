@@ -1,0 +1,11 @@
+C:\Users\Velja\Desktop\Matura\A28\Matura\A28\Matura_Zadatak_A28\Matura_Zadatak_A28\bin\Debug\Matura_Zadatak_A28.exe.config
+C:\Users\Velja\Desktop\Matura\A28\Matura\A28\Matura_Zadatak_A28\Matura_Zadatak_A28\bin\Debug\Matura_Zadatak_A28.exe
+C:\Users\Velja\Desktop\Matura\A28\Matura\A28\Matura_Zadatak_A28\Matura_Zadatak_A28\bin\Debug\Matura_Zadatak_A28.pdb
+C:\Users\Velja\Desktop\Matura\A28\Matura\A28\Matura_Zadatak_A28\Matura_Zadatak_A28\obj\Debug\Matura_Zadatak_A28.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A28\Matura\A28\Matura_Zadatak_A28\Matura_Zadatak_A28\obj\Debug\Matura_Zadatak_A28.Kupovina.resources
+C:\Users\Velja\Desktop\Matura\A28\Matura\A28\Matura_Zadatak_A28\Matura_Zadatak_A28\obj\Debug\Matura_Zadatak_A28.Stovariste.resources
+C:\Users\Velja\Desktop\Matura\A28\Matura\A28\Matura_Zadatak_A28\Matura_Zadatak_A28\obj\Debug\Matura_Zadatak_A28.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A28\Matura\A28\Matura_Zadatak_A28\Matura_Zadatak_A28\obj\Debug\Matura_Zadatak_A28.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A28\Matura\A28\Matura_Zadatak_A28\Matura_Zadatak_A28\obj\Debug\Matura_Zadatak_A28.exe
+C:\Users\Velja\Desktop\Matura\A28\Matura\A28\Matura_Zadatak_A28\Matura_Zadatak_A28\obj\Debug\Matura_Zadatak_A28.pdb
+C:\Users\Velja\Desktop\Matura\A28\Matura\A28\Matura_Zadatak_A28\Matura_Zadatak_A28\obj\Debug\Matura_Zadatak_A28.Magacin.resources
