@@ -1,0 +1,11 @@
+C:\Users\Velja\Desktop\Matura\A12\Matura\A12\Matura_Zadatak_A13\Matura_Zadatak_A13\bin\Debug\Matura_Zadatak_A13.exe.config
+C:\Users\Velja\Desktop\Matura\A13\Matura\A13\Matura_Zadatak_A13\Matura_Zadatak_A13\bin\Debug\Matura_Zadatak_A13.exe.config
+C:\Users\Velja\Desktop\Matura\A13\Matura\A13\Matura_Zadatak_A13\Matura_Zadatak_A13\bin\Debug\Matura_Zadatak_A13.exe
+C:\Users\Velja\Desktop\Matura\A13\Matura\A13\Matura_Zadatak_A13\Matura_Zadatak_A13\bin\Debug\Matura_Zadatak_A13.pdb
+C:\Users\Velja\Desktop\Matura\A13\Matura\A13\Matura_Zadatak_A13\Matura_Zadatak_A13\obj\Debug\Matura_Zadatak_A13.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A13\Matura\A13\Matura_Zadatak_A13\Matura_Zadatak_A13\obj\Debug\Matura_Zadatak_A13.Producentska_kuca.resources
+C:\Users\Velja\Desktop\Matura\A13\Matura\A13\Matura_Zadatak_A13\Matura_Zadatak_A13\obj\Debug\Matura_Zadatak_A13.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A13\Matura\A13\Matura_Zadatak_A13\Matura_Zadatak_A13\obj\Debug\Matura_Zadatak_A13.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A13\Matura\A13\Matura_Zadatak_A13\Matura_Zadatak_A13\obj\Debug\Matura_Zadatak_A13.exe
+C:\Users\Velja\Desktop\Matura\A13\Matura\A13\Matura_Zadatak_A13\Matura_Zadatak_A13\obj\Debug\Matura_Zadatak_A13.pdb
+C:\Users\Velja\Desktop\Matura\A13\Matura\A13\Matura_Zadatak_A13\Matura_Zadatak_A13\obj\Debug\Matura_Zadatak_A13.Analiza.resources
