@@ -1,0 +1,18 @@
+C:\Users\Velja\Desktop\Matura\A9\Matura\A9\Matura_Zadatak_A9\Matura_Zadatak_A9\bin\Debug\Matura_Zadatak_A9.exe.config
+C:\Users\Velja\Desktop\Matura\A9\Matura\A9\Matura_Zadatak_A9\Matura_Zadatak_A9\bin\Debug\Matura_Zadatak_A9.exe
+C:\Users\Velja\Desktop\Matura\A9\Matura\A9\Matura_Zadatak_A9\Matura_Zadatak_A9\bin\Debug\Matura_Zadatak_A9.pdb
+C:\Users\Velja\Desktop\Matura\A9\Matura\A9\Matura_Zadatak_A9\Matura_Zadatak_A9\obj\Debug\Matura_Zadatak_A9.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A9\Matura\A9\Matura_Zadatak_A9\Matura_Zadatak_A9\obj\Debug\Matura_Zadatak_A9.Game.resources
+C:\Users\Velja\Desktop\Matura\A9\Matura\A9\Matura_Zadatak_A9\Matura_Zadatak_A9\obj\Debug\Matura_Zadatak_A9.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A9\Matura\A9\Matura_Zadatak_A9\Matura_Zadatak_A9\obj\Debug\Matura_Zadatak_A9.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A9\Matura\A9\Matura_Zadatak_A9\Matura_Zadatak_A9\obj\Debug\Matura_Zadatak_A9.exe
+C:\Users\Velja\Desktop\Matura\A9\Matura\A9\Matura_Zadatak_A9\Matura_Zadatak_A9\obj\Debug\Matura_Zadatak_A9.pdb
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\A9\Matura_Zadatak_A9\Matura_Zadatak_A9\bin\Debug\Matura_Zadatak_A9.exe.config
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\A9\Matura_Zadatak_A9\Matura_Zadatak_A9\obj\Debug\Matura_Zadatak_A9.exe
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\A9\Matura_Zadatak_A9\Matura_Zadatak_A9\obj\Debug\Matura_Zadatak_A9.pdb
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\A9\Matura_Zadatak_A9\Matura_Zadatak_A9\bin\Debug\Matura_Zadatak_A9.exe
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\A9\Matura_Zadatak_A9\Matura_Zadatak_A9\bin\Debug\Matura_Zadatak_A9.pdb
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\A9\Matura_Zadatak_A9\Matura_Zadatak_A9\obj\Debug\Matura_Zadatak_A9.csprojResolveAssemblyReference.cache
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\A9\Matura_Zadatak_A9\Matura_Zadatak_A9\obj\Debug\Matura_Zadatak_A9.Game.resources
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\A9\Matura_Zadatak_A9\Matura_Zadatak_A9\obj\Debug\Matura_Zadatak_A9.Properties.Resources.resources
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\A9\Matura_Zadatak_A9\Matura_Zadatak_A9\obj\Debug\Matura_Zadatak_A9.csproj.GenerateResource.Cache
