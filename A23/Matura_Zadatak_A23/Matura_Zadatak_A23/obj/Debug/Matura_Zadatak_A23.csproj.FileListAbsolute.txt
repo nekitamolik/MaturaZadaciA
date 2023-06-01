@@ -1,0 +1,12 @@
+C:\Users\Velja\Desktop\Matura\A22\Matura\A22\Matura_Zadatak_A23\Matura_Zadatak_A23\bin\Debug\Matura_Zadatak_A23.exe.config
+C:\Users\Velja\Desktop\Matura\A23\Matura\A23\Matura_Zadatak_A23\Matura_Zadatak_A23\bin\Debug\Matura_Zadatak_A23.exe.config
+C:\Users\Velja\Desktop\Matura\A23\Matura\A23\Matura_Zadatak_A23\Matura_Zadatak_A23\bin\Debug\Matura_Zadatak_A23.exe
+C:\Users\Velja\Desktop\Matura\A23\Matura\A23\Matura_Zadatak_A23\Matura_Zadatak_A23\bin\Debug\Matura_Zadatak_A23.pdb
+C:\Users\Velja\Desktop\Matura\A23\Matura\A23\Matura_Zadatak_A23\Matura_Zadatak_A23\obj\Debug\Matura_Zadatak_A23.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A23\Matura\A23\Matura_Zadatak_A23\Matura_Zadatak_A23\obj\Debug\Matura_Zadatak_A23.Logovanje.resources
+C:\Users\Velja\Desktop\Matura\A23\Matura\A23\Matura_Zadatak_A23\Matura_Zadatak_A23\obj\Debug\Matura_Zadatak_A23.Pozoriste.resources
+C:\Users\Velja\Desktop\Matura\A23\Matura\A23\Matura_Zadatak_A23\Matura_Zadatak_A23\obj\Debug\Matura_Zadatak_A23.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A23\Matura\A23\Matura_Zadatak_A23\Matura_Zadatak_A23\obj\Debug\Matura_Zadatak_A23.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A23\Matura\A23\Matura_Zadatak_A23\Matura_Zadatak_A23\obj\Debug\Matura_Zadatak_A23.exe
+C:\Users\Velja\Desktop\Matura\A23\Matura\A23\Matura_Zadatak_A23\Matura_Zadatak_A23\obj\Debug\Matura_Zadatak_A23.pdb
+C:\Users\Velja\Desktop\Matura\A23\Matura\A23\Matura_Zadatak_A23\Matura_Zadatak_A23\obj\Debug\Matura_Zadatak_A23.Repertoar.resources
