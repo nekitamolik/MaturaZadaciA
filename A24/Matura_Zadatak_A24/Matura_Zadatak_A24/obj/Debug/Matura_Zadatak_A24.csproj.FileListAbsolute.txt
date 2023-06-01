@@ -1,0 +1,9 @@
+C:\Users\Velja\Desktop\Matura\A24\Matura\A24\Matura_Zadatak_A24\Matura_Zadatak_A24\bin\Debug\Matura_Zadatak_A24.exe.config
+C:\Users\Velja\Desktop\Matura\A24\Matura\A24\Matura_Zadatak_A24\Matura_Zadatak_A24\bin\Debug\Matura_Zadatak_A24.exe
+C:\Users\Velja\Desktop\Matura\A24\Matura\A24\Matura_Zadatak_A24\Matura_Zadatak_A24\bin\Debug\Matura_Zadatak_A24.pdb
+C:\Users\Velja\Desktop\Matura\A24\Matura\A24\Matura_Zadatak_A24\Matura_Zadatak_A24\obj\Debug\Matura_Zadatak_A24.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A24\Matura\A24\Matura_Zadatak_A24\Matura_Zadatak_A24\obj\Debug\Matura_Zadatak_A24.Poliklinika.resources
+C:\Users\Velja\Desktop\Matura\A24\Matura\A24\Matura_Zadatak_A24\Matura_Zadatak_A24\obj\Debug\Matura_Zadatak_A24.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A24\Matura\A24\Matura_Zadatak_A24\Matura_Zadatak_A24\obj\Debug\Matura_Zadatak_A24.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A24\Matura\A24\Matura_Zadatak_A24\Matura_Zadatak_A24\obj\Debug\Matura_Zadatak_A24.exe
+C:\Users\Velja\Desktop\Matura\A24\Matura\A24\Matura_Zadatak_A24\Matura_Zadatak_A24\obj\Debug\Matura_Zadatak_A24.pdb
