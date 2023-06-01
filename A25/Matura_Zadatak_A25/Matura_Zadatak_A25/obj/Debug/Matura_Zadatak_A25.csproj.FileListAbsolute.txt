@@ -1,0 +1,11 @@
+C:\Users\Velja\Desktop\Matura\A25\Matura\A25\Matura_Zadatak_A25\Matura_Zadatak_A25\bin\Debug\Matura_Zadatak_A25.exe.config
+C:\Users\Velja\Desktop\Matura\A25\Matura\A25\Matura_Zadatak_A25\Matura_Zadatak_A25\bin\Debug\Matura_Zadatak_A25.exe
+C:\Users\Velja\Desktop\Matura\A25\Matura\A25\Matura_Zadatak_A25\Matura_Zadatak_A25\bin\Debug\Matura_Zadatak_A25.pdb
+C:\Users\Velja\Desktop\Matura\A25\Matura\A25\Matura_Zadatak_A25\Matura_Zadatak_A25\obj\Debug\Matura_Zadatak_A25.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A25\Matura\A25\Matura_Zadatak_A25\Matura_Zadatak_A25\obj\Debug\Matura_Zadatak_A25.Analiza.resources
+C:\Users\Velja\Desktop\Matura\A25\Matura\A25\Matura_Zadatak_A25\Matura_Zadatak_A25\obj\Debug\Matura_Zadatak_A25.IzmenaDatuma.resources
+C:\Users\Velja\Desktop\Matura\A25\Matura\A25\Matura_Zadatak_A25\Matura_Zadatak_A25\obj\Debug\Matura_Zadatak_A25.ZakaziPregled.resources
+C:\Users\Velja\Desktop\Matura\A25\Matura\A25\Matura_Zadatak_A25\Matura_Zadatak_A25\obj\Debug\Matura_Zadatak_A25.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A25\Matura\A25\Matura_Zadatak_A25\Matura_Zadatak_A25\obj\Debug\Matura_Zadatak_A25.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A25\Matura\A25\Matura_Zadatak_A25\Matura_Zadatak_A25\obj\Debug\Matura_Zadatak_A25.exe
+C:\Users\Velja\Desktop\Matura\A25\Matura\A25\Matura_Zadatak_A25\Matura_Zadatak_A25\obj\Debug\Matura_Zadatak_A25.pdb
