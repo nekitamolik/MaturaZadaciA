@@ -1,0 +1,11 @@
+C:\Users\Velja\Desktop\Matura\A19\Matura\A19\Matura_Zadatak_A19\Matura_Zadatak_A19\bin\Debug\Matura_Zadatak_A19.exe.config
+C:\Users\Velja\Desktop\Matura\A19\Matura\A19\Matura_Zadatak_A19\Matura_Zadatak_A19\bin\Debug\Matura_Zadatak_A19.exe
+C:\Users\Velja\Desktop\Matura\A19\Matura\A19\Matura_Zadatak_A19\Matura_Zadatak_A19\bin\Debug\Matura_Zadatak_A19.pdb
+C:\Users\Velja\Desktop\Matura\A19\Matura\A19\Matura_Zadatak_A19\Matura_Zadatak_A19\obj\Debug\Matura_Zadatak_A19.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A19\Matura\A19\Matura_Zadatak_A19\Matura_Zadatak_A19\obj\Debug\Matura_Zadatak_A19.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A19\Matura\A19\Matura_Zadatak_A19\Matura_Zadatak_A19\obj\Debug\Matura_Zadatak_A19.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A19\Matura\A19\Matura_Zadatak_A19\Matura_Zadatak_A19\obj\Debug\Matura_Zadatak_A19.exe
+C:\Users\Velja\Desktop\Matura\A19\Matura\A19\Matura_Zadatak_A19\Matura_Zadatak_A19\obj\Debug\Matura_Zadatak_A19.pdb
+C:\Users\Velja\Desktop\Matura\A19\Matura\A19\Matura_Zadatak_A19\Matura_Zadatak_A19\obj\Debug\Matura_Zadatak_A19.Sektori.resources
+C:\Users\Velja\Desktop\Matura\A19\Matura\A19\Matura_Zadatak_A19\Matura_Zadatak_A19\obj\Debug\Matura_Zadatak_A19.NoviRukovodioc.resources
+C:\Users\Velja\Desktop\Matura\A19\Matura\A19\Matura_Zadatak_A19\Matura_Zadatak_A19\obj\Debug\Matura_Zadatak_A19.Analiza.resources
