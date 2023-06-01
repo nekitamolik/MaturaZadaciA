@@ -1,0 +1,10 @@
+C:\Users\Velja\Desktop\Matura\A15\Matura\A15\Matura_Zadatak_A15\Matura_Zadatak_A15\bin\Debug\Matura_Zadatak_A15.exe.config
+C:\Users\Velja\Desktop\Matura\A15\Matura\A15\Matura_Zadatak_A15\Matura_Zadatak_A15\bin\Debug\Matura_Zadatak_A15.exe
+C:\Users\Velja\Desktop\Matura\A15\Matura\A15\Matura_Zadatak_A15\Matura_Zadatak_A15\bin\Debug\Matura_Zadatak_A15.pdb
+C:\Users\Velja\Desktop\Matura\A15\Matura\A15\Matura_Zadatak_A15\Matura_Zadatak_A15\obj\Debug\Matura_Zadatak_A15.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A15\Matura\A15\Matura_Zadatak_A15\Matura_Zadatak_A15\obj\Debug\Matura_Zadatak_A15.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A15\Matura\A15\Matura_Zadatak_A15\Matura_Zadatak_A15\obj\Debug\Matura_Zadatak_A15.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A15\Matura\A15\Matura_Zadatak_A15\Matura_Zadatak_A15\obj\Debug\Matura_Zadatak_A15.exe
+C:\Users\Velja\Desktop\Matura\A15\Matura\A15\Matura_Zadatak_A15\Matura_Zadatak_A15\obj\Debug\Matura_Zadatak_A15.pdb
+C:\Users\Velja\Desktop\Matura\A15\Matura\A15\Matura_Zadatak_A15\Matura_Zadatak_A15\obj\Debug\Matura_Zadatak_A15.Analiza.resources
+C:\Users\Velja\Desktop\Matura\A15\Matura\A15\Matura_Zadatak_A15\Matura_Zadatak_A15\obj\Debug\Matura_Zadatak_A15.Bolest_Lek.resources
