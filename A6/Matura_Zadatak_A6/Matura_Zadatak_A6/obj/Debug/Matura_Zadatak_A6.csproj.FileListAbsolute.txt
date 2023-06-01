@@ -1,0 +1,9 @@
+C:\Users\Velja\Desktop\Matura\A6\Matura\A6\Matura_Zadatak_A6\Matura_Zadatak_A6\bin\Debug\Matura_Zadatak_A6.exe.config
+C:\Users\Velja\Desktop\Matura\A6\Matura\A6\Matura_Zadatak_A6\Matura_Zadatak_A6\bin\Debug\Matura_Zadatak_A6.exe
+C:\Users\Velja\Desktop\Matura\A6\Matura\A6\Matura_Zadatak_A6\Matura_Zadatak_A6\bin\Debug\Matura_Zadatak_A6.pdb
+C:\Users\Velja\Desktop\Matura\A6\Matura\A6\Matura_Zadatak_A6\Matura_Zadatak_A6\obj\Debug\Matura_Zadatak_A6.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A6\Matura\A6\Matura_Zadatak_A6\Matura_Zadatak_A6\obj\Debug\Matura_Zadatak_A6.Model.resources
+C:\Users\Velja\Desktop\Matura\A6\Matura\A6\Matura_Zadatak_A6\Matura_Zadatak_A6\obj\Debug\Matura_Zadatak_A6.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A6\Matura\A6\Matura_Zadatak_A6\Matura_Zadatak_A6\obj\Debug\Matura_Zadatak_A6.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A6\Matura\A6\Matura_Zadatak_A6\Matura_Zadatak_A6\obj\Debug\Matura_Zadatak_A6.exe
+C:\Users\Velja\Desktop\Matura\A6\Matura\A6\Matura_Zadatak_A6\Matura_Zadatak_A6\obj\Debug\Matura_Zadatak_A6.pdb
