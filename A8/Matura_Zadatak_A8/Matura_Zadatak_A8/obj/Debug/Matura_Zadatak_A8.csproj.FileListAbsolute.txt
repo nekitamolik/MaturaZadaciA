@@ -1,0 +1,11 @@
+C:\Users\Velja\Desktop\Matura\A8\Matura\A8\Matura_Zadatak_A8\Matura_Zadatak_A8\bin\Debug\Matura_Zadatak_A8.exe.config
+C:\Users\Velja\Desktop\Matura\A8\Matura\A8\Matura_Zadatak_A8\Matura_Zadatak_A8\bin\Debug\Matura_Zadatak_A8.exe
+C:\Users\Velja\Desktop\Matura\A8\Matura\A8\Matura_Zadatak_A8\Matura_Zadatak_A8\bin\Debug\Matura_Zadatak_A8.pdb
+C:\Users\Velja\Desktop\Matura\A8\Matura\A8\Matura_Zadatak_A8\Matura_Zadatak_A8\obj\Debug\Matura_Zadatak_A8.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A8\Matura\A8\Matura_Zadatak_A8\Matura_Zadatak_A8\obj\Debug\Matura_Zadatak_A8.Antikviteti_Lokacija.resources
+C:\Users\Velja\Desktop\Matura\A8\Matura\A8\Matura_Zadatak_A8\Matura_Zadatak_A8\obj\Debug\Matura_Zadatak_A8.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A8\Matura\A8\Matura_Zadatak_A8\Matura_Zadatak_A8\obj\Debug\Matura_Zadatak_A8.Statistika.resources
+C:\Users\Velja\Desktop\Matura\A8\Matura\A8\Matura_Zadatak_A8\Matura_Zadatak_A8\obj\Debug\Matura_Zadatak_A8.TipAntikviteta.resources
+C:\Users\Velja\Desktop\Matura\A8\Matura\A8\Matura_Zadatak_A8\Matura_Zadatak_A8\obj\Debug\Matura_Zadatak_A8.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A8\Matura\A8\Matura_Zadatak_A8\Matura_Zadatak_A8\obj\Debug\Matura_Zadatak_A8.exe
+C:\Users\Velja\Desktop\Matura\A8\Matura\A8\Matura_Zadatak_A8\Matura_Zadatak_A8\obj\Debug\Matura_Zadatak_A8.pdb
