@@ -1,0 +1,14 @@
+11/10/2022 Error : String or binary data would be truncated in table 'A4.dbo.Selo', column 'naziv'. Truncated value: 'Selo3666666666666666666666666666666666666666666666'.
+The statement has been terminated.
+11/10/2022 Error : String or binary data would be truncated in table 'A4.dbo.Selo', column 'naziv'. Truncated value: 'Selo4444444444444444444444444444444444444444444444'.
+The statement has been terminated.
+11/10/2022 Error : String or binary data would be truncated in table 'A4.dbo.Selo', column 'naziv'. Truncated value: 'Selo4444444444444444444444444444444444444444444444'.
+The statement has been terminated.
+11/10/2022 Error : String or binary data would be truncated in table 'A4.dbo.Selo', column 'naziv'. Truncated value: 'Selo4444444444444444444444444444444444444444444444'.
+The statement has been terminated.
+11/10/2022 Error : String or binary data would be truncated in table 'A4.dbo.Selo', column 'naziv'. Truncated value: 'Selo4444444444444444444444444444444444444444444444'.
+The statement has been terminated.
+11/10/2022 Error : String or binary data would be truncated in table 'A4.dbo.Selo', column 'naziv'. Truncated value: 'Selo4444444444444444444444444444444444444444444444'.
+The statement has been terminated.
+11/11/2022 Error : String or binary data would be truncated in table 'A4.dbo.Selo', column 'naziv'. Truncated value: 'Selo1900000000000000000000000000000000000000000000'.
+The statement has been terminated.
