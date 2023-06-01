@@ -1,0 +1,11 @@
+C:\Users\Velja\Desktop\Matura\A12\Matura\A12\Matura_Zadatak_A12\Matura_Zadatak_A12\bin\Debug\Matura_Zadatak_A12.exe.config
+C:\Users\Velja\Desktop\Matura\A12\Matura\A12\Matura_Zadatak_A12\Matura_Zadatak_A12\bin\Debug\Matura_Zadatak_A12.exe
+C:\Users\Velja\Desktop\Matura\A12\Matura\A12\Matura_Zadatak_A12\Matura_Zadatak_A12\bin\Debug\Matura_Zadatak_A12.pdb
+C:\Users\Velja\Desktop\Matura\A12\Matura\A12\Matura_Zadatak_A12\Matura_Zadatak_A12\obj\Debug\Matura_Zadatak_A12.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A12\Matura\A12\Matura_Zadatak_A12\Matura_Zadatak_A12\obj\Debug\Matura_Zadatak_A12.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A12\Matura\A12\Matura_Zadatak_A12\Matura_Zadatak_A12\obj\Debug\Matura_Zadatak_A12.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A12\Matura\A12\Matura_Zadatak_A12\Matura_Zadatak_A12\obj\Debug\Matura_Zadatak_A12.exe
+C:\Users\Velja\Desktop\Matura\A12\Matura\A12\Matura_Zadatak_A12\Matura_Zadatak_A12\obj\Debug\Matura_Zadatak_A12.pdb
+C:\Users\Velja\Desktop\Matura\A12\Matura\A12\Matura_Zadatak_A12\Matura_Zadatak_A12\obj\Debug\Matura_Zadatak_A12.Filter.resources
+C:\Users\Velja\Desktop\Matura\A12\Matura\A12\Matura_Zadatak_A12\Matura_Zadatak_A12\obj\Debug\Matura_Zadatak_A12.Stadion.resources
+C:\Users\Velja\Desktop\Matura\A12\Matura\A12\Matura_Zadatak_A12\Matura_Zadatak_A12\obj\Debug\Matura_Zadatak_A12.Statistika.resources
