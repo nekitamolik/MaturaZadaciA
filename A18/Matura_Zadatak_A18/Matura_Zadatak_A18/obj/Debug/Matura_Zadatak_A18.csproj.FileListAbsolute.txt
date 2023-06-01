@@ -1,0 +1,10 @@
+C:\Users\Velja\Desktop\Matura\A18\Matura\A18\Matura_Zadatak_A18\Matura_Zadatak_A18\bin\Debug\Matura_Zadatak_A18.exe.config
+C:\Users\Velja\Desktop\Matura\A18\Matura\A18\Matura_Zadatak_A18\Matura_Zadatak_A18\bin\Debug\Matura_Zadatak_A18.exe
+C:\Users\Velja\Desktop\Matura\A18\Matura\A18\Matura_Zadatak_A18\Matura_Zadatak_A18\bin\Debug\Matura_Zadatak_A18.pdb
+C:\Users\Velja\Desktop\Matura\A18\Matura\A18\Matura_Zadatak_A18\Matura_Zadatak_A18\obj\Debug\Matura_Zadatak_A18.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A18\Matura\A18\Matura_Zadatak_A18\Matura_Zadatak_A18\obj\Debug\Matura_Zadatak_A18.Garaza.resources
+C:\Users\Velja\Desktop\Matura\A18\Matura\A18\Matura_Zadatak_A18\Matura_Zadatak_A18\obj\Debug\Matura_Zadatak_A18.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A18\Matura\A18\Matura_Zadatak_A18\Matura_Zadatak_A18\obj\Debug\Matura_Zadatak_A18.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A18\Matura\A18\Matura_Zadatak_A18\Matura_Zadatak_A18\obj\Debug\Matura_Zadatak_A18.exe
+C:\Users\Velja\Desktop\Matura\A18\Matura\A18\Matura_Zadatak_A18\Matura_Zadatak_A18\obj\Debug\Matura_Zadatak_A18.pdb
+C:\Users\Velja\Desktop\Matura\A18\Matura\A18\Matura_Zadatak_A18\Matura_Zadatak_A18\obj\Debug\Matura_Zadatak_A18.Analiza.resources
