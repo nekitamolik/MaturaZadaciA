@@ -1,0 +1,11 @@
+C:\Users\Velja\Desktop\Matura\A22\Matura\A22\Matura_Zadatak_A22\Matura_Zadatak_A22\bin\Debug\Matura_Zadatak_A22.exe.config
+C:\Users\Velja\Desktop\Matura\A22\Matura\A22\Matura_Zadatak_A22\Matura_Zadatak_A22\bin\Debug\Matura_Zadatak_A22.exe
+C:\Users\Velja\Desktop\Matura\A22\Matura\A22\Matura_Zadatak_A22\Matura_Zadatak_A22\bin\Debug\Matura_Zadatak_A22.pdb
+C:\Users\Velja\Desktop\Matura\A22\Matura\A22\Matura_Zadatak_A22\Matura_Zadatak_A22\obj\Debug\Matura_Zadatak_A22.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A22\Matura\A22\Matura_Zadatak_A22\Matura_Zadatak_A22\obj\Debug\Matura_Zadatak_A22.Golf_turnir.resources
+C:\Users\Velja\Desktop\Matura\A22\Matura\A22\Matura_Zadatak_A22\Matura_Zadatak_A22\obj\Debug\Matura_Zadatak_A22.Igrac1.resources
+C:\Users\Velja\Desktop\Matura\A22\Matura\A22\Matura_Zadatak_A22\Matura_Zadatak_A22\obj\Debug\Matura_Zadatak_A22.Igrac2.resources
+C:\Users\Velja\Desktop\Matura\A22\Matura\A22\Matura_Zadatak_A22\Matura_Zadatak_A22\obj\Debug\Matura_Zadatak_A22.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A22\Matura\A22\Matura_Zadatak_A22\Matura_Zadatak_A22\obj\Debug\Matura_Zadatak_A22.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A22\Matura\A22\Matura_Zadatak_A22\Matura_Zadatak_A22\obj\Debug\Matura_Zadatak_A22.exe
+C:\Users\Velja\Desktop\Matura\A22\Matura\A22\Matura_Zadatak_A22\Matura_Zadatak_A22\obj\Debug\Matura_Zadatak_A22.pdb
