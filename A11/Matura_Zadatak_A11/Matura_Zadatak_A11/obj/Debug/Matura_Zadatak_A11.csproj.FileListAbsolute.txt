@@ -1,0 +1,10 @@
+C:\Users\Velja\Desktop\Matura\A11\Matura\A11\Matura_Zadatak_A11\Matura_Zadatak_A11\bin\Debug\Matura_Zadatak_A11.exe.config
+C:\Users\Velja\Desktop\Matura\A11\Matura\A11\Matura_Zadatak_A11\Matura_Zadatak_A11\bin\Debug\Matura_Zadatak_A11.exe
+C:\Users\Velja\Desktop\Matura\A11\Matura\A11\Matura_Zadatak_A11\Matura_Zadatak_A11\bin\Debug\Matura_Zadatak_A11.pdb
+C:\Users\Velja\Desktop\Matura\A11\Matura\A11\Matura_Zadatak_A11\Matura_Zadatak_A11\obj\Debug\Matura_Zadatak_A11.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A11\Matura\A11\Matura_Zadatak_A11\Matura_Zadatak_A11\obj\Debug\Matura_Zadatak_A11.Autor.resources
+C:\Users\Velja\Desktop\Matura\A11\Matura\A11\Matura_Zadatak_A11\Matura_Zadatak_A11\obj\Debug\Matura_Zadatak_A11.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A11\Matura\A11\Matura_Zadatak_A11\Matura_Zadatak_A11\obj\Debug\Matura_Zadatak_A11.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A11\Matura\A11\Matura_Zadatak_A11\Matura_Zadatak_A11\obj\Debug\Matura_Zadatak_A11.exe
+C:\Users\Velja\Desktop\Matura\A11\Matura\A11\Matura_Zadatak_A11\Matura_Zadatak_A11\obj\Debug\Matura_Zadatak_A11.pdb
+C:\Users\Velja\Desktop\Matura\A11\Matura\A11\Matura_Zadatak_A11\Matura_Zadatak_A11\obj\Debug\Matura_Zadatak_A11.Analiza.resources
