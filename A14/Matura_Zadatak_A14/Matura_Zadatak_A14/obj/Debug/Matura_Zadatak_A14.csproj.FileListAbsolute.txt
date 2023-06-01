@@ -1,0 +1,10 @@
+C:\Users\Velja\Desktop\Matura\A14\Matura\A14\Matura_Zadatak_A14\Matura_Zadatak_A14\bin\Debug\Matura_Zadatak_A14.exe.config
+C:\Users\Velja\Desktop\Matura\A14\Matura\A14\Matura_Zadatak_A14\Matura_Zadatak_A14\bin\Debug\Matura_Zadatak_A14.exe
+C:\Users\Velja\Desktop\Matura\A14\Matura\A14\Matura_Zadatak_A14\Matura_Zadatak_A14\bin\Debug\Matura_Zadatak_A14.pdb
+C:\Users\Velja\Desktop\Matura\A14\Matura\A14\Matura_Zadatak_A14\Matura_Zadatak_A14\obj\Debug\Matura_Zadatak_A14.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A14\Matura\A14\Matura_Zadatak_A14\Matura_Zadatak_A14\obj\Debug\Matura_Zadatak_A14.Lek_Prozivodjac.resources
+C:\Users\Velja\Desktop\Matura\A14\Matura\A14\Matura_Zadatak_A14\Matura_Zadatak_A14\obj\Debug\Matura_Zadatak_A14.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A14\Matura\A14\Matura_Zadatak_A14\Matura_Zadatak_A14\obj\Debug\Matura_Zadatak_A14.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A14\Matura\A14\Matura_Zadatak_A14\Matura_Zadatak_A14\obj\Debug\Matura_Zadatak_A14.exe
+C:\Users\Velja\Desktop\Matura\A14\Matura\A14\Matura_Zadatak_A14\Matura_Zadatak_A14\obj\Debug\Matura_Zadatak_A14.pdb
+C:\Users\Velja\Desktop\Matura\A14\Matura\A14\Matura_Zadatak_A14\Matura_Zadatak_A14\obj\Debug\Matura_Zadatak_A14.Analiza.resources
