@@ -1,0 +1,16 @@
+C:\Users\Velja\Desktop\Matura\A27\Matura\A27\Matura_Zadatak_A27\Matura_Zadatak_A27\bin\Debug\Matura_Zadatak_A27.exe.config
+C:\Users\Velja\Desktop\Matura\A27\Matura\A27\Matura_Zadatak_A27\Matura_Zadatak_A27\bin\Debug\Matura_Zadatak_A27.exe
+C:\Users\Velja\Desktop\Matura\A27\Matura\A27\Matura_Zadatak_A27\Matura_Zadatak_A27\bin\Debug\Matura_Zadatak_A27.pdb
+C:\Users\Velja\Desktop\Matura\A27\Matura\A27\Matura_Zadatak_A27\Matura_Zadatak_A27\obj\Debug\Matura_Zadatak_A27.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A27\Matura\A27\Matura_Zadatak_A27\Matura_Zadatak_A27\obj\Debug\Matura_Zadatak_A27.Osiguranje.resources
+C:\Users\Velja\Desktop\Matura\A27\Matura\A27\Matura_Zadatak_A27\Matura_Zadatak_A27\obj\Debug\Matura_Zadatak_A27.Polisa.resources
+C:\Users\Velja\Desktop\Matura\A27\Matura\A27\Matura_Zadatak_A27\Matura_Zadatak_A27\obj\Debug\Matura_Zadatak_A27.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A27\Matura\A27\Matura_Zadatak_A27\Matura_Zadatak_A27\obj\Debug\Matura_Zadatak_A27.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A27\Matura\A27\Matura_Zadatak_A27\Matura_Zadatak_A27\obj\Debug\Matura_Zadatak_A27.exe
+C:\Users\Velja\Desktop\Matura\A27\Matura\A27\Matura_Zadatak_A27\Matura_Zadatak_A27\obj\Debug\Matura_Zadatak_A27.pdb
+C:\Users\Velja\Desktop\Matura\A27\Matura\A27\Matura_Zadatak_A27\Matura_Zadatak_A27\obj\Debug\Matura_Zadatak_A27.Modeli.resources
+C:\Users\Velja\Desktop\Matura\A27\Matura\A27\Matura_Zadatak_A27\Matura_Zadatak_A27\bin\Debug\Icons\insurance.png
+C:\Users\Velja\Desktop\Matura\A27\Matura\A27\Matura_Zadatak_A27\Matura_Zadatak_A27\bin\Debug\Icons\model.png
+C:\Users\Velja\Desktop\Matura\A27\Matura\A27\Matura_Zadatak_A27\Matura_Zadatak_A27\bin\Debug\Icons\power.png
+C:\Users\Velja\Desktop\Matura\A27\Matura\A27\Matura_Zadatak_A27\Matura_Zadatak_A27\bin\Debug\Icons\x.png
+C:\Users\Velja\Desktop\Matura\A27\Matura\A27\Matura_Zadatak_A27\Matura_Zadatak_A27\bin\Debug\Icons\+.png
