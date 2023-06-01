@@ -1,0 +1,10 @@
+C:\Users\Velja\Desktop\Matura\A10\Matura\A10\Matura_Zadatak_A10\Matura_Zadatak_A10\bin\Debug\Matura_Zadatak_A10.exe.config
+C:\Users\Velja\Desktop\Matura\A10\Matura\A10\Matura_Zadatak_A10\Matura_Zadatak_A10\bin\Debug\Matura_Zadatak_A10.exe
+C:\Users\Velja\Desktop\Matura\A10\Matura\A10\Matura_Zadatak_A10\Matura_Zadatak_A10\bin\Debug\Matura_Zadatak_A10.pdb
+C:\Users\Velja\Desktop\Matura\A10\Matura\A10\Matura_Zadatak_A10\Matura_Zadatak_A10\obj\Debug\Matura_Zadatak_A10.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A10\Matura\A10\Matura_Zadatak_A10\Matura_Zadatak_A10\obj\Debug\Matura_Zadatak_A10.Pecarosi.resources
+C:\Users\Velja\Desktop\Matura\A10\Matura\A10\Matura_Zadatak_A10\Matura_Zadatak_A10\obj\Debug\Matura_Zadatak_A10.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A10\Matura\A10\Matura_Zadatak_A10\Matura_Zadatak_A10\obj\Debug\Matura_Zadatak_A10.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A10\Matura\A10\Matura_Zadatak_A10\Matura_Zadatak_A10\obj\Debug\Matura_Zadatak_A10.exe
+C:\Users\Velja\Desktop\Matura\A10\Matura\A10\Matura_Zadatak_A10\Matura_Zadatak_A10\obj\Debug\Matura_Zadatak_A10.pdb
+C:\Users\Velja\Desktop\Matura\A10\Matura\A10\Matura_Zadatak_A10\Matura_Zadatak_A10\obj\Debug\Matura_Zadatak_A10.Analiza.resources
