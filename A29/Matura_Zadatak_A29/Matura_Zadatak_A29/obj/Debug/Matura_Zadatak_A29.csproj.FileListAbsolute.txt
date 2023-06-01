@@ -1,0 +1,11 @@
+C:\Users\Velja\Desktop\Matura\A29\Matura\A29\Matura_Zadatak_A29\Matura_Zadatak_A29\bin\Debug\Matura_Zadatak_A29.exe.config
+C:\Users\Velja\Desktop\Matura\A29\Matura\A29\Matura_Zadatak_A29\Matura_Zadatak_A29\bin\Debug\Matura_Zadatak_A29.exe
+C:\Users\Velja\Desktop\Matura\A29\Matura\A29\Matura_Zadatak_A29\Matura_Zadatak_A29\bin\Debug\Matura_Zadatak_A29.pdb
+C:\Users\Velja\Desktop\Matura\A29\Matura\A29\Matura_Zadatak_A29\Matura_Zadatak_A29\obj\Debug\Matura_Zadatak_A29.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A29\Matura\A29\Matura_Zadatak_A29\Matura_Zadatak_A29\obj\Debug\Matura_Zadatak_A29.Igraci.resources
+C:\Users\Velja\Desktop\Matura\A29\Matura\A29\Matura_Zadatak_A29\Matura_Zadatak_A29\obj\Debug\Matura_Zadatak_A29.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A29\Matura\A29\Matura_Zadatak_A29\Matura_Zadatak_A29\obj\Debug\Matura_Zadatak_A29.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A29\Matura\A29\Matura_Zadatak_A29\Matura_Zadatak_A29\obj\Debug\Matura_Zadatak_A29.exe
+C:\Users\Velja\Desktop\Matura\A29\Matura\A29\Matura_Zadatak_A29\Matura_Zadatak_A29\obj\Debug\Matura_Zadatak_A29.pdb
+C:\Users\Velja\Desktop\Matura\A29\Matura\A29\Matura_Zadatak_A29\Matura_Zadatak_A29\obj\Debug\Matura_Zadatak_A29.Analiza.resources
+C:\Users\Velja\Desktop\Matura\A29\Matura\A29\Matura_Zadatak_A29\Matura_Zadatak_A29\obj\Debug\Matura_Zadatak_A29.Uputstvo.resources
