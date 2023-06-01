@@ -1,0 +1,12 @@
+C:\Users\Velja\Desktop\Matura\A26\Matura\A26\Images\Matura_Zadatak_A26\Matura_Zadatak_A26\bin\Debug\Matura_Zadatak_A26.exe.config
+C:\Users\Velja\Desktop\Matura\A26\Matura\A26\Matura_Zadatak_A26\Matura_Zadatak_A26\bin\Debug\Matura_Zadatak_A26.exe.config
+C:\Users\Velja\Desktop\Matura\A26\Matura\A26\Matura_Zadatak_A26\Matura_Zadatak_A26\bin\Debug\Matura_Zadatak_A26.exe
+C:\Users\Velja\Desktop\Matura\A26\Matura\A26\Matura_Zadatak_A26\Matura_Zadatak_A26\bin\Debug\Matura_Zadatak_A26.pdb
+C:\Users\Velja\Desktop\Matura\A26\Matura\A26\Matura_Zadatak_A26\Matura_Zadatak_A26\obj\Debug\Matura_Zadatak_A26.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A26\Matura\A26\Matura_Zadatak_A26\Matura_Zadatak_A26\obj\Debug\Matura_Zadatak_A26.Hotel.resources
+C:\Users\Velja\Desktop\Matura\A26\Matura\A26\Matura_Zadatak_A26\Matura_Zadatak_A26\obj\Debug\Matura_Zadatak_A26.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A26\Matura\A26\Matura_Zadatak_A26\Matura_Zadatak_A26\obj\Debug\Matura_Zadatak_A26.Uplata.resources
+C:\Users\Velja\Desktop\Matura\A26\Matura\A26\Matura_Zadatak_A26\Matura_Zadatak_A26\obj\Debug\Matura_Zadatak_A26.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A26\Matura\A26\Matura_Zadatak_A26\Matura_Zadatak_A26\obj\Debug\Matura_Zadatak_A26.exe
+C:\Users\Velja\Desktop\Matura\A26\Matura\A26\Matura_Zadatak_A26\Matura_Zadatak_A26\obj\Debug\Matura_Zadatak_A26.pdb
+C:\Users\Velja\Desktop\Matura\A26\Matura\A26\Matura_Zadatak_A26\Matura_Zadatak_A26\obj\Debug\Matura_Zadatak_A26.Booking.resources
