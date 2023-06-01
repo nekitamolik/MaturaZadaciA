@@ -1,0 +1,11 @@
+C:\Users\Velja\Desktop\Matura\A20\Matura\A20\Matura_Zadatak_A20\Matura_Zadatak_A20\bin\Debug\Matura_Zadatak_A20.exe.config
+C:\Users\Velja\Desktop\Matura\A20\Matura\A20\Matura_Zadatak_A20\Matura_Zadatak_A20\bin\Debug\Matura_Zadatak_A20.exe
+C:\Users\Velja\Desktop\Matura\A20\Matura\A20\Matura_Zadatak_A20\Matura_Zadatak_A20\bin\Debug\Matura_Zadatak_A20.pdb
+C:\Users\Velja\Desktop\Matura\A20\Matura\A20\Matura_Zadatak_A20\Matura_Zadatak_A20\obj\Debug\Matura_Zadatak_A20.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A20\Matura\A20\Matura_Zadatak_A20\Matura_Zadatak_A20\obj\Debug\Matura_Zadatak_A20.Putovanje.resources
+C:\Users\Velja\Desktop\Matura\A20\Matura\A20\Matura_Zadatak_A20\Matura_Zadatak_A20\obj\Debug\Matura_Zadatak_A20.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A20\Matura\A20\Matura_Zadatak_A20\Matura_Zadatak_A20\obj\Debug\Matura_Zadatak_A20.Uplata.resources
+C:\Users\Velja\Desktop\Matura\A20\Matura\A20\Matura_Zadatak_A20\Matura_Zadatak_A20\obj\Debug\Matura_Zadatak_A20.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A20\Matura\A20\Matura_Zadatak_A20\Matura_Zadatak_A20\obj\Debug\Matura_Zadatak_A20.exe
+C:\Users\Velja\Desktop\Matura\A20\Matura\A20\Matura_Zadatak_A20\Matura_Zadatak_A20\obj\Debug\Matura_Zadatak_A20.pdb
+C:\Users\Velja\Desktop\Matura\A20\Matura\A20\Matura_Zadatak_A20\Matura_Zadatak_A20\obj\Debug\Matura_Zadatak_A20.Pregled.resources
