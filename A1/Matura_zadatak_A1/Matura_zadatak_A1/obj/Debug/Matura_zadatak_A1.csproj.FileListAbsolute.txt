@@ -1,0 +1,16 @@
+C:\Users\Velja\Desktop\A1\Matura\A1\Matura_zadatak_A1\Matura_zadatak_A1\bin\Debug\Matura_zadatak_A1.exe
+C:\Users\Velja\Desktop\A1\Matura\A1\Matura_zadatak_A1\Matura_zadatak_A1\bin\Debug\Matura_zadatak_A1.pdb
+C:\Users\Velja\Desktop\A1\Matura\A1\Matura_zadatak_A1\Matura_zadatak_A1\obj\Debug\Matura_zadatak_A1.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\A1\Matura\A1\Matura_zadatak_A1\Matura_zadatak_A1\obj\Debug\Matura_zadatak_A1.Form1.resources
+C:\Users\Velja\Desktop\A1\Matura\A1\Matura_zadatak_A1\Matura_zadatak_A1\obj\Debug\Matura_zadatak_A1.Properties.Resources.resources
+C:\Users\Velja\Desktop\A1\Matura\A1\Matura_zadatak_A1\Matura_zadatak_A1\obj\Debug\Matura_zadatak_A1.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\A1\Matura\A1\Matura_zadatak_A1\Matura_zadatak_A1\obj\Debug\Matura_zadatak_A1.exe
+C:\Users\Velja\Desktop\A1\Matura\A1\Matura_zadatak_A1\Matura_zadatak_A1\obj\Debug\Matura_zadatak_A1.pdb
+C:\Users\Velja\Desktop\Matura\A1\Matura\A1\Matura_zadatak_A1\Matura_zadatak_A1\obj\Debug\Matura_zadatak_A1.exe
+C:\Users\Velja\Desktop\Matura\A1\Matura\A1\Matura_zadatak_A1\Matura_zadatak_A1\obj\Debug\Matura_zadatak_A1.pdb
+C:\Users\Velja\Desktop\Matura\A1\Matura\A1\Matura_zadatak_A1\Matura_zadatak_A1\bin\Debug\Matura_zadatak_A1.exe
+C:\Users\Velja\Desktop\Matura\A1\Matura\A1\Matura_zadatak_A1\Matura_zadatak_A1\bin\Debug\Matura_zadatak_A1.pdb
+C:\Users\Velja\Desktop\Matura\A1\Matura\A1\Matura_zadatak_A1\Matura_zadatak_A1\obj\Debug\Matura_zadatak_A1.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A1\Matura\A1\Matura_zadatak_A1\Matura_zadatak_A1\obj\Debug\Matura_zadatak_A1.Form1.resources
+C:\Users\Velja\Desktop\Matura\A1\Matura\A1\Matura_zadatak_A1\Matura_zadatak_A1\obj\Debug\Matura_zadatak_A1.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A1\Matura\A1\Matura_zadatak_A1\Matura_zadatak_A1\obj\Debug\Matura_zadatak_A1.csproj.GenerateResource.Cache
