@@ -1,0 +1,16 @@
+C:\Users\Velja\Desktop\Matura\A30\Matura\A30\Matura_Zadatak_A30\Matura_Zadatak_A30\bin\Debug\Matura_Zadatak_A30.exe
+C:\Users\Velja\Desktop\Matura\A30\Matura\A30\Matura_Zadatak_A30\Matura_Zadatak_A30\bin\Debug\Matura_Zadatak_A30.pdb
+C:\Users\Velja\Desktop\Matura\A30\Matura\A30\Matura_Zadatak_A30\Matura_Zadatak_A30\obj\Debug\Matura_Zadatak_A30.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\A30\Matura\A30\Matura_Zadatak_A30\Matura_Zadatak_A30\obj\Debug\Matura_Zadatak_A30.Analiza.resources
+C:\Users\Velja\Desktop\Matura\A30\Matura\A30\Matura_Zadatak_A30\Matura_Zadatak_A30\obj\Debug\Matura_Zadatak_A30.Tereni.resources
+C:\Users\Velja\Desktop\Matura\A30\Matura\A30\Matura_Zadatak_A30\Matura_Zadatak_A30\obj\Debug\Matura_Zadatak_A30.Properties.Resources.resources
+C:\Users\Velja\Desktop\Matura\A30\Matura\A30\Matura_Zadatak_A30\Matura_Zadatak_A30\obj\Debug\Matura_Zadatak_A30.csproj.GenerateResource.Cache
+C:\Users\Velja\Desktop\Matura\A30\Matura\A30\Matura_Zadatak_A30\Matura_Zadatak_A30\obj\Debug\Matura_Zadatak_A30.exe
+C:\Users\Velja\Desktop\Matura\A30\Matura\A30\Matura_Zadatak_A30\Matura_Zadatak_A30\obj\Debug\Matura_Zadatak_A30.pdb
+C:\Users\Velja\Desktop\Matura\A30\Matura\A30\Matura_Zadatak_A30\Matura_Zadatak_A30\bin\Debug\Matura_Zadatak_A30.exe.config
+C:\Users\Velja\Desktop\Matura\A30\Matura\A30\Matura_Zadatak_A30\Matura_Zadatak_A30\bin\Debug\Images\ball.jpg
+C:\Users\Velja\Desktop\Matura\A30\Matura\A30\Matura_Zadatak_A30\Matura_Zadatak_A30\bin\Debug\Images\bg.jpg
+C:\Users\Velja\Desktop\Matura\A30\Matura\A30\Matura_Zadatak_A30\Matura_Zadatak_A30\bin\Debug\Images\chart.png
+C:\Users\Velja\Desktop\Matura\A30\Matura\A30\Matura_Zadatak_A30\Matura_Zadatak_A30\bin\Debug\Images\exit.png
+C:\Users\Velja\Desktop\Matura\A30\Matura\A30\Matura_Zadatak_A30\Matura_Zadatak_A30\bin\Debug\Images\info.png
+C:\Users\Velja\Desktop\Matura\A30\Matura\A30\Matura_Zadatak_A30\Matura_Zadatak_A30\bin\Debug\Images\X.png
